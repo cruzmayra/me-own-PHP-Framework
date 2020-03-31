@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50b7f27f-c46c-4815-9038-ac43b3e13af7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/framework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/hello.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/hello.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/front.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/front.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +37,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Zj7qDnTaKhQHSKZAWRlFJYe21H" />
@@ -68,7 +78,7 @@
       <updated>1585340837737</updated>
       <workItem from="1585340840847" duration="1666000" />
       <workItem from="1585344191518" duration="8271000" />
-      <workItem from="1585597408656" duration="10218000" />
+      <workItem from="1585597408656" duration="15460000" />
     </task>
     <servers />
   </component>
@@ -76,10 +86,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1585607438471">
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1585611958426">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1585607438471" />
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1585611958426" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585597410214">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
